@@ -1,0 +1,14 @@
+.header{
+    background: url('img/image.png');
+    color:gray;
+    font-size: 30px;
+}
+
+.h1{
+    color: blue;
+    font-size: 20px;
+}
+
+.body{
+    background-color: rgb(234, 216, 140);
+}
